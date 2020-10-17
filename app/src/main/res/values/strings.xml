@@ -29,5 +29,6 @@
     <string name="backspace">&#60;-</string>
 
     <string name="output">Enter Expression</string>
+    <string name="exception">Expression Error</string>
     <string name="previous"> </string>
 </resources>
